@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rvgrXGLcwh22S+JXR3+umvA9hZAmZIeR3iOeLBaoK+JVep4F4HYmIO0M8CfyzUqBfeWC6mDCI5MPOvj+TR7kWA==",
+  "success": true,
+  "projectFilePath": "d:\\Downloads\\DependencyInjection\\DependencyInjection\\DILib\\DILib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\nlog\\4.7.5\\nlog.4.7.5.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\nlog.config\\4.7.5\\nlog.config.4.7.5.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\nlog.schema\\4.7.5\\nlog.schema.4.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
