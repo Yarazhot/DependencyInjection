@@ -1,0 +1,12 @@
+2020-12-10 15:10:22.2528 TRACE Inject Parent 
+2020-12-10 15:10:22.2867 TRACE Get Parent 
+2020-12-10 15:10:22.2884 DEBUG Parent is Defined 
+2020-12-10 15:10:22.2884 TRACE Get IEnumerable`1 
+2020-12-10 15:10:22.2884 DEBUG IEnumerable`1 is IEnumerable 
+2020-12-10 15:10:22.2884 TRACE GetAll Child 
+2020-12-10 15:10:22.2884 DEBUG find assignable definition for Child by Son 
+2020-12-10 15:10:22.2884 DEBUG find assignable definition for Child by Daughter 
+2020-12-10 15:10:22.4191 ERROR DILib.AlreadyDefinedException: Exception of type 'DILib.AlreadyDefinedException' was thrown.
+   at DILib.DiConfig.AddGenerator[T](IGenerator generator) in d:\Downloads\DependencyInjection\DependencyInjection\DILib\DiConfig.cs:line 93
+   at DILib.DiConfig.AddSingleGenerator[T]() in d:\Downloads\DependencyInjection\DependencyInjection\DILib\DiConfig.cs:line 99
+   at ConsoleApp.Program.Main(String[] args) in d:\Downloads\DependencyInjection\DependencyInjection\ConsoleApp\Program.cs:line 27 
